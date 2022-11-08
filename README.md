@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illusive2x
+- 👋 Hi, I’m Gabriel @illusive2x
 - 👀 I’m interested in ... Learning how to create web apps
 - 🌱 I’m currently learning ... Software Engineering @ New England Institute of Technology
 - 💞️ I’m looking to collaborate on ...
